@@ -1,0 +1,2 @@
+ControlPort 9051
+Socks5Proxy 127.0.0.1:9090

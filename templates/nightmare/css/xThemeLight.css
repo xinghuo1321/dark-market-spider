@@ -1,0 +1,109 @@
+
+body{
+	background-color: #f2f2f2;
+	background-image:none;
+	color: #212529;
+}
+a{color:#2f3640;}
+a:hover{color:#353b48;}
+.currencyBalancePrice a{color:#55A7F1;}
+#myheader2{
+	background-color: #263A53;
+}
+#myheader .headerp > i,#myheader .headerp > a > i,#myheader .headerp > a{color:#fff;text-decoration:none;}
+.contentPlace{background-color:transparent;}
+.largeH {color:#000;}
+.topheader{background-color: #fff;}
+#categoriesDiv a,#categoriesDiv a:hover{
+	color:#2f3542;
+}
+#categoriesDiv hr{border-top: 1px solid #2f3542;}
+#categoriesDiv{
+	background-color: #dfe4ea;
+	color:#2f3542;
+	background-position:50% 70%;
+}
+#featuredSlotsListings .flisting .mylink,
+#featuredSlotsListings .flisting .mylink:hover
+{
+	color:#2f3542;
+}
+
+#loginBox{
+	background-color:#fff;
+	color:#000;
+	border:1px solid #E3E3E3;
+}
+#loginBox a{
+	color:#417EB5;
+}
+.newDsPlc{
+	background-color:#fff;
+	color:#000;
+	border:1px solid #E3E3E3;
+}
+.backToMarket{color:#000;font-weight:bold;}
+.backToMarket:hover{color:#ccc;text-decoration:none;}
+.logoPlc a h1{
+	background-image:url('nm_logo_day.png');
+}
+.logoPlc2 a h1{
+	background-image:url('nm_logo_day.png');
+}
+
+.nav-tabs .nav-link{color:#000;}
+
+.newDsPlc{
+	background-color:#fff;
+	color:#000;
+	border:1px solid #E3E3E3;
+}
+
+.widget .body{
+	background-color: #fff;
+	color:#263A53;
+	border:1px solid #E3E3E3;
+}
+
+
+.supportImg{background-image:url('../images/bg_support.jpg');}
+.supportImg h1{color:#fff;}
+.supportImg a{color:#BEBEBE;}
+.supportImg a.faqslink{color:#fff;}
+.supportImg h5{opacity: 0.7;}
+.slotBack{background-color:#fff; border:1px solid #e3e3e3;}
+
+.balanceBox .col-md-6 .col-md-12{color:#000;background-color:#F2F2F2;}
+.buttonTextSample{color:#000;}
+.cat{border-top:1px solid #dadbdd;}
+.widget .title{
+	background-color: #263A53;
+	color:#fff;
+}
+a .cat{color:#263A53;}
+a .cat.bluecat{color:#007bff;}
+
+.subcat{background-color:#fff;}
+.subcat2{background-color:#fff;}
+.messagesborder {border-right:1px solid rgba(0,0,0,.1);}
+.myfooter{background-color: #fff;color:#57606f}
+.myfooter2{background-color: #747d8c;color:#ffffff;border-top-color:#a4b0be;}
+.myfooter a,.myfooter a:hover{color:#57606f;}
+.myfooter h4{color:#57606f;}
+.myfooter hr{margin:0.2rem 0rem;border-top: 1px solid rgba(0,0,0,.1);}
+.fixed-footer{border-top:0px;}
+
+.addlistingBox .col-md-10{background-color:transparent;}
+.balanceBox img{background-color: #fff;}
+
+
+table thead.myhead tr th{background-color:#ccc;}
+
+.blue{color:#0000ff;}
+.green{color:#008000;}
+
+
+
+.newDsPlc .col-md-12.p-0 hr{border-top: 1px solid rgba(0,0,0,.1);}
+#panelHeader{background:#fff;}
+#panelHeader li{background:#dfe6e9;}

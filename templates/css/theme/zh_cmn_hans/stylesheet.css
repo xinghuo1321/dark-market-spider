@@ -1,0 +1,31 @@
+/* Online image */
+.online { background-image: url("./icon_user_online.gif"); }
+body {
+    font-size: 11px;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+}
+.postbody h3 {
+    font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+    font-size: 1.3em;
+    font-weight: unset;
+}
+.postbody h3.first {
+    font-size: 1.4em;
+	text-shadow: 0 1px 1px white;
+}
+.postbody .content {
+    font-family: Verdana, Helvetica, Arial, "Microsoft YaHei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+    font-size: 1.3em;
+}
+li.header dt, li.header dd {
+    font-size: 1.1em;
+}
+h3 {
+    font-size: 1.1em;
+}
+.footer-row {
+    font-size: 12px;
+}
+.action-bar .button {
+    font-size: 15px;
+}
